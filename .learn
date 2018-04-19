@@ -5,3 +5,5 @@ languages:
   - JavaScript
 resources: 
   - 2
+
+parent_template: git@github.com:learn-co-curriculum/js-jquery-document-ready-readme.git
